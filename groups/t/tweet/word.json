@@ -1,0 +1,19 @@
+{
+    "word": "tweet",
+    "AmE": "[twit]",
+    "BrE": "[twiːt]",
+    "meanings": {
+        "n": [
+            "推文",
+            "鸟鸣"
+        ],
+        "vi": [
+            "在Twitter上发帖",
+            "鸟叫"
+        ],
+        "vt": [
+            "在Twitter上发帖"
+        ]
+    },
+    "order": 599
+}

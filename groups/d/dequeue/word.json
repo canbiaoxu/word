@@ -1,0 +1,14 @@
+{
+    "word": "dequeue",
+    "AmE": "di'kju:",
+    "BrE": "di'kju:",
+    "meanings": {
+        "n": [
+            "出队操作"
+        ],
+        "vt": [
+            "从队列中移除（元素或项目）"
+        ]
+    },
+    "order": 799
+}

@@ -1,0 +1,11 @@
+{
+    "word": "spacy",
+    "AmE": "ˈspeɪsi",
+    "BrE": "ˈspeɪsi",
+    "meanings": {
+        "n": [
+            "Spacy是一个用于Python和Cython的自然语言处理库"
+        ]
+    },
+    "order": 599
+}
